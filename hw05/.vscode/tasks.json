@@ -1,0 +1,58 @@
+
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "g++.exe build single active file",
+			"command": "D:\\MinGW\\bin/g++.exe",
+			"args": [
+				"-g",
+				"${file}",
+				// "${workspaceFolder}/*.cpp",
+				"-o",
+				"${workspaceFolder}\\.vscode\\${relativeFileDirname}${fileBasenameNoExtension}.exe",
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	],
+	// "tasks": [
+	// 	{
+	// 		"type": "shell",
+	// 		"label": "g++.exe build active file",
+	// 		"command": "D:\\MinGW\\bin\\g++.exe",
+	// 		"args": [
+	// 			"-g",
+	// 			// "-Wall",
+	// 			"*.cpp",
+	// 			// "${workspaceFolder}\\*.cpp",
+	// 			// "${workspaceFolder}/*.h",
+	// 			// "${file}",
+	// 			"-o",
+	// 			// "${workspaceFolder}\\.vscode\\program.exe",
+	// 			"${workspaceFolder}\\.vscode\\${relativeFileDirname}${fileBasenameNoExtension}.exe",
+	// 			// "-std=c++11",
+	// 		],
+	// 		"options": {
+	// 			"cwd": "${workspaceFolder}"
+	// 		},
+	// 		"problemMatcher": [
+	// 			"$gcc"
+	// 		],
+	// 		"group": {
+	// 			"kind": "build",
+	// 			"isDefault": true
+	// 		}
+	// 	}
+	// ]
+    
+}

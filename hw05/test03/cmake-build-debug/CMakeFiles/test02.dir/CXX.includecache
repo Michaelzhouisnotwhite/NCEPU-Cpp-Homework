@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/User_Michael's/C project/Homework/hw05/test03/src/TwoDimensionTensor.cpp
+header.h
+E:/User_Michael's/C project/Homework/hw05/test03/src/header.h
+TwoDimensionTensor.h
+E:/User_Michael's/C project/Homework/hw05/test03/src/TwoDimensionTensor.h
+
+E:/User_Michael's/C project/Homework/hw05/test03/src/TwoDimensionTensor.h
+
+E:/User_Michael's/C project/Homework/hw05/test03/src/header.h
+iostream
+-
+iomanip
+-
+cmath
+-
+
+E:/User_Michael's/C project/Homework/hw05/test03/src/main.cpp
+header.h
+E:/User_Michael's/C project/Homework/hw05/test03/src/header.h
+TwoDimensionTensor.h
+E:/User_Michael's/C project/Homework/hw05/test03/src/TwoDimensionTensor.h
+

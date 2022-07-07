@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/User_Michael's/C project/Clion C++/Homework/hw01/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test01.dir\\test01.cpp.obj -c \"E:\\User_Michael's\\C project\\Clion C++\\Homework\\hw01\\test01.cpp\"",
+  "file": "E:/User_Michael's/C project/Clion C++/Homework/hw01/test01.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Clion C++/Homework/hw01/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test02.dir\\test02.cpp.obj -c \"E:\\User_Michael's\\C project\\Clion C++\\Homework\\hw01\\test02.cpp\"",
+  "file": "E:/User_Michael's/C project/Clion C++/Homework/hw01/test02.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Clion C++/Homework/hw01/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test03.dir\\test03.cpp.obj -c \"E:\\User_Michael's\\C project\\Clion C++\\Homework\\hw01\\test03.cpp\"",
+  "file": "E:/User_Michael's/C project/Clion C++/Homework/hw01/test03.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Clion C++/Homework/hw01/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test04.dir\\test04.cpp.obj -c \"E:\\User_Michael's\\C project\\Clion C++\\Homework\\hw01\\test04.cpp\"",
+  "file": "E:/User_Michael's/C project/Clion C++/Homework/hw01/test04.cpp"
+}
+]

@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@D:\Program Files (x64)\MicrosoftVC++tools\C++build
+Options: msvc.arch=amd64
+
+Options:

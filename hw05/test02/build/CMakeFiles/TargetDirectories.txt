@@ -1,0 +1,3 @@
+E:/User_Michael's/C project/Homework/hw05/test02/build/CMakeFiles/test02.dir
+E:/User_Michael's/C project/Homework/hw05/test02/build/CMakeFiles/edit_cache.dir
+E:/User_Michael's/C project/Homework/hw05/test02/build/CMakeFiles/rebuild_cache.dir

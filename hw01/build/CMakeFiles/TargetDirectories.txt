@@ -1,0 +1,6 @@
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/test01.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/test02.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/test03.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/test04.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/edit_cache.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/build/CMakeFiles/rebuild_cache.dir

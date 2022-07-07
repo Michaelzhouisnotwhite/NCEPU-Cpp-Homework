@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test02/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/test02.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test02.dir\\src\\main.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test02\\src\\main.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test02/src/main.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test02/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/test02.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test02.dir\\src\\ThreeDimensionTensor.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test02\\src\\ThreeDimensionTensor.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test02/src/ThreeDimensionTensor.cpp"
+}
+]

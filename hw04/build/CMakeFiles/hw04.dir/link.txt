@@ -1,0 +1,3 @@
+"D:\Program Files (x64)\Cmake\bin\cmake.exe" -E rm -f CMakeFiles\hw04.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\hw04.dir/objects.a @CMakeFiles\hw04.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hw04.dir/objects.a -Wl,--no-whole-archive -o hw04.exe -Wl,--out-implib,libhw04.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw04.dir\linklibs.rsp

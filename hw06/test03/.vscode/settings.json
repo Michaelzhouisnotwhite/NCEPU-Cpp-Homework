@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.h": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "typeinfo": "cpp"
+    }
+}

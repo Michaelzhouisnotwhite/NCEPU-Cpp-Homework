@@ -1,0 +1,6 @@
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/test01.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/test02.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/test03.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/test04.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/User_Michael's/C project/Clion C++/Homework/hw01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

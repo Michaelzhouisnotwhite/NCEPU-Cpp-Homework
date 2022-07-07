@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/User_Michael's/C project/Homework/hw06/test03/src/MiniSize.cpp
+
+E:/User_Michael's/C project/Homework/hw06/test03/src/MiniSize.h
+header.h
+E:/User_Michael's/C project/Homework/hw06/test03/src/header.h
+
+E:/User_Michael's/C project/Homework/hw06/test03/src/header.h
+iostream
+-
+iomanip
+-
+typeinfo
+-
+
+E:/User_Michael's/C project/Homework/hw06/test03/src/main.cpp
+header.h
+E:/User_Michael's/C project/Homework/hw06/test03/src/header.h
+MiniSize.h
+E:/User_Michael's/C project/Homework/hw06/test03/src/MiniSize.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/User_Michaels/C project/Homework/hw07/test01/src/Compare.h
+
+E:/User_Michaels/C project/Homework/hw07/test01/src/main.cpp
+iostream
+-
+Compare.h
+E:/User_Michaels/C project/Homework/hw07/test01/src/Compare.h
+

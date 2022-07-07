@@ -1,0 +1,3 @@
+"D:\Program Files (x64)\jetbrains\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hw01.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\hw01.dir/objects.a @CMakeFiles\hw01.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\hw01.dir/objects.a -Wl,--no-whole-archive  -o hw01.exe -Wl,--out-implib,libhw01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw01.dir\linklibs.rsp

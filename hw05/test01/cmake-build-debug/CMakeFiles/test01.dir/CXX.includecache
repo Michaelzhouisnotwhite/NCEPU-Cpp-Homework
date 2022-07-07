@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/User_Michael's/C project/Homework/hw05/test01/EqCorpus.h
+Loan.h
+E:/User_Michael's/C project/Homework/hw05/test01/Loan.h
+
+E:/User_Michael's/C project/Homework/hw05/test01/EqCorpusInterest.h
+Loan.h
+E:/User_Michael's/C project/Homework/hw05/test01/Loan.h
+
+E:/User_Michael's/C project/Homework/hw05/test01/Loan.h
+header.h
+E:/User_Michael's/C project/Homework/hw05/test01/header.h
+
+E:/User_Michael's/C project/Homework/hw05/test01/header.h
+iostream
+-
+string
+-
+cmath
+-
+iomanip
+-
+
+E:/User_Michael's/C project/Homework/hw05/test01/main.cpp
+EqCorpusInterest.h
+E:/User_Michael's/C project/Homework/hw05/test01/EqCorpusInterest.h
+EqCorpus.h
+E:/User_Michael's/C project/Homework/hw05/test01/EqCorpus.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/User_Michael's/C project/Homework/hw05/test02/src/ThreeDimensionTensor.cpp
+ThreeDimensionTensor.h
+E:/User_Michael's/C project/Homework/hw05/test02/src/ThreeDimensionTensor.h
+
+E:/User_Michael's/C project/Homework/hw05/test02/src/ThreeDimensionTensor.h
+header.h
+E:/User_Michael's/C project/Homework/hw05/test02/src/header.h
+
+E:/User_Michael's/C project/Homework/hw05/test02/src/header.h
+iostream
+-
+string
+-
+iomanip
+-
+

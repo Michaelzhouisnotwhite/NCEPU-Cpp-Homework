@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test01/build",
+  "command": "D:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test01.dir\\EqCorpusInterest.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test01\\EqCorpusInterest.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test01/EqCorpusInterest.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test01/build",
+  "command": "D:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test01.dir\\Loan.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test01\\Loan.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test01/Loan.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test01/build",
+  "command": "D:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test01.dir\\main.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test01\\main.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test01/main.cpp"
+},
+{
+  "directory": "E:/User_Michael's/C project/Homework/hw05/test01/build",
+  "command": "D:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test01.dir\\EqCorpus.cpp.obj -c \"E:\\User_Michael's\\C project\\Homework\\hw05\\test01\\EqCorpus.cpp\"",
+  "file": "E:/User_Michael's/C project/Homework/hw05/test01/EqCorpus.cpp"
+}
+]

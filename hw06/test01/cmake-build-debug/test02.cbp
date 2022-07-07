@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test02"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test02">
+				<Option output="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/test02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/User_Michael&apos;s/C project/Homework/hw06/test01/."/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 test02"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test02/fast">
+				<Option output="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/test02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/User_Michael&apos;s/C project/Homework/hw06/test01/."/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 test02/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/User_Michael&apos;s/C project/Homework/hw06/test01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/User_Michael&apos;s/C project/Homework/hw06/test01/src/ThreeDimensionTensor.cpp">
+			<Option target="test02"/>
+		</Unit>
+		<Unit filename="E:/User_Michael&apos;s/C project/Homework/hw06/test01/src/ThreeDimensionTensor.h">
+			<Option target="test02"/>
+		</Unit>
+		<Unit filename="E:/User_Michael&apos;s/C project/Homework/hw06/test01/src/header.h">
+			<Option target="test02"/>
+		</Unit>
+		<Unit filename="E:/User_Michael&apos;s/C project/Homework/hw06/test01/src/main.cpp">
+			<Option target="test02"/>
+		</Unit>
+		<Unit filename="E:/User_Michael&apos;s/C project/Homework/hw06/test01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
